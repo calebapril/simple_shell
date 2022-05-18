@@ -11,6 +11,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o sodash ./sodash Sodash is allowed to 
 
 # Authors & Copyrights
 Caleb Nyong
+<br><br>
 Matthew Lawrence
 
 # More information
